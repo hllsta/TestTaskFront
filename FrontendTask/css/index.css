@@ -1,0 +1,377 @@
+body {
+    background: #F2F2F2;;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    width: 1920px;
+    height: 1437px;
+
+}
+h1 {
+    position: absolute;
+    width: 456px;
+    height: 56px;
+    left: 732px;
+    top: 100px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #323232;
+}
+
+h2 {
+    position: absolute;
+    width: 235px;
+    height: 28px;
+    left: 840px;
+    top: 217px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #323232;
+}
+
+footer{
+    position: absolute;
+    width: 1920px;
+    height: 162px;
+    left: 0px;
+    top: 1314px;
+
+    background: #FFFFFF;
+}
+
+p {
+    position: absolute;
+    width: 383px;
+    height: 42px;
+    left: 391px;
+    top: 26px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #000000;
+}
+
+.bg-white1{
+    position: absolute;
+    width: 360px;
+    height: 814px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+}
+
+.bg-white2{
+    position: absolute;
+    width: 360px;
+    height: 879px;
+    left: 390px;
+    top: 0px;
+
+    background: #FFFFFF;
+
+}
+
+.bg-white3{
+    position: absolute;
+    width: 360px;
+    height: 911px;
+    left: 780px;
+    top: 0px;
+
+    background: #FFFFFF;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+}
+
+.product-name-01{
+    position: absolute;
+    width: 174px;
+    height: 42px;
+    left: 94px;
+    top: 20px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #323232;
+}
+
+.product-name-02{
+    position: absolute;
+    width: 174px;
+    height: 42px;
+    left: 94px;
+    top: 20px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #323232;
+}
+
+.product-name-03{
+    position: absolute;
+    width: 174px;
+    height: 42px;
+    left: 94px;
+    top: 20px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #323232;
+}
+
+.cart-product{
+    position: absolute;
+    width: 1140px;
+    height: 911px;
+    left: 388px;
+    top: 345px;
+    
+}
+
+.img-01 {
+    position: absolute;
+    width: 300px;
+    height: 225px;
+    left: 30px;
+    top: 132px;
+}
+
+.img-02 {
+    position: absolute;
+    width: 300px;
+    height: 310px;
+    left: 30px;
+    top: 132px;
+}
+
+.img-03 {
+    position: absolute;
+    width: 300px;
+    height: 384px;
+    left: 30px;
+    top: 132px;
+}
+
+.grid-title-01{
+    position: absolute;
+    width: 300px;
+    height: 252px;
+    left: 30px;
+    top: 370px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+
+}
+
+.grid-title-02{
+    position: absolute;
+    width: 300px;
+    height: 231px;
+    left: 30px;
+    top: 456px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.grid-title-03{
+    position: absolute;
+    width: 300px;
+    height: 189px;
+    left: 30px;
+    top: 530px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.grid-price-01{
+    position: absolute;
+    width: 121px;
+    height: 28px;
+    left: 119px;
+    top: 645px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+
+.grid-price-02{
+    position: absolute;
+    width: 121px;
+    height: 28px;
+    left: 119px;
+    top: 710px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+
+.grid-price-03{
+    position: absolute;
+    width: 121px;
+    height: 28px;
+    left: 119px;
+    top: 742px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+
+.btn-01{
+    position: absolute;
+    width: 299px;
+    height: 21px;
+    left: 31px;
+    top: 728px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 3px;
+
+    color: #FFFFFF;
+    text-decoration: none;
+    user-select: none;
+    background: #2CC34F;
+    border: 0px;
+    padding: 28px 20px;
+    border-radius: 3px;
+
+}
+
+.btn-01:hover{
+    background: #22943C;
+    
+}
+
+.btn-01:focus{
+    background: #22943C;
+    
+}
+
+.btn-02{
+    position: absolute;
+    width: 299px;
+    height: 21px;
+    left: 30px;
+    top: 792px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 3px;
+
+    color: #FFFFFF;
+    text-decoration: none;
+    user-select: none;
+    background: #2CC34F;
+    border: 0px;
+    padding: 28px 20px;
+    border-radius: 3px;
+}
+
+.btn-02:hover{
+    background: #22943C;
+    
+}
+
+.btn-02:focus{
+    background: #22943C;
+    
+}
+
+.btn-03{
+    position: absolute;
+    width: 299px;
+    height: 30px;
+    left: 28px;
+    top: 825px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 3px;
+
+    color: #FFFFFF;
+    text-decoration: none;
+    user-select: none;
+    background: #2CC34F;
+    border: 0px;
+    padding: 28px 20px;
+    border-radius: 3px;
+
+}
+
+.btn-03:hover{
+    background: #22943C;
+    
+}
+
+.btn-03:focus{
+    background: #22943C;
+    
+}
